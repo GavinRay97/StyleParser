@@ -1,0 +1,12 @@
+{
+  "name": "styleparsertest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "sast": "GavinRay97/sast#patch-1",
+    "unist-util-inspect": "^4.1.3",
+    "unist-util-visit": "^1.4.0"
+  }
+}
